@@ -1,20 +1,36 @@
 {
   "transactions": [
     {
-      "id":1,
-      "description":"Desenvolvimento de site",
+      "id": 1,
+      "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
       "price": 14000,
       "createdAt": "2022-09-20T20:09:56.972Z"
     },
     {
-      "id":2,
-      "description":"Hamburguer",
+      "id": 2,
+      "description": "Hamburguer",
       "type": "outcome",
       "category": "Comida",
-      "price": 50,
+      "price": 70,
       "createdAt": "2022-10-20T20:19:56.972Z"
+    },
+    {
+      "description": "Loteria",
+      "price": 414141,
+      "category": "Sorte",
+      "type": "income",
+      "createdAt": "2022-09-21T17:51:15.278Z",
+      "id": 3
+    },
+    {
+      "description": "Loteria",
+      "price": 3131,
+      "category": "Sorte",
+      "type": "income",
+      "createdAt": "2022-09-21T19:42:27.760Z",
+      "id": 4
     }
   ]
 }
